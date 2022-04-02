@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1648864913 source:c:\users\tinti\desktop\importante\github\calculos-5\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1490112217 source:c:\users\tinti\desktop\importante\github\calculos-5\pila.c
+	"pila.h"
+
+1490112217 c:\users\tinti\desktop\importante\github\calculos-5\pila.h
+	<stdio.h>
+	<malloc.h>
+
